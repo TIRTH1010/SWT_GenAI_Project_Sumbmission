@@ -1,0 +1,8 @@
+pandas 
+numpy
+beautifulsoup4
+ipykernel
+requests
+openai
+langchain
+jq
